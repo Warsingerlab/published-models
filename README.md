@@ -3,4 +3,4 @@ This repository contains all published code from the Warsinger Water Lab. High l
 
 Filename convention: keyword_firstauthor_year.filetype
 
-File types: .EES, .txt, .ipynb, .py, .mat, .slx, .xlsx
+File types: .EES, .txt, .ipynb, .py, .m, .slx, .xlsx
